@@ -1,0 +1,158 @@
+html, 
+body {
+	width: 100%;
+	height: 100%;
+}
+
+header {
+	padding-bottom: 30px;
+}
+
+.intro1 {
+	padding-top: 30px;
+	padding-left: 70px;
+	font-size: 22px;
+}
+
+.nav-link {
+	font-size: 17px;
+	color: #212529;
+}
+
+.amina {
+	padding-bottom: 30px;
+	color: #3b5772;
+	font-size: 42px;
+}
+
+.col-4 {
+	padding: 100px;
+}
+
+.intro2 {
+	background: url(images/img-01.jpg) no-repeat center center; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.intro3 {
+	padding: 50px;
+	/*background-color: #3b5772;*/
+	background-color: #253551;
+	color: white;
+}
+
+.location {
+	font-size: 22px;
+	line-height: 1.6;
+}
+
+
+.namsu {
+	padding-bottom: 30px;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 50px;
+}
+
+.btn-primary {
+	background-color: #3b5772;
+	border-color: #3b5772;
+}
+
+.btn-primary:hover {
+	background-color: #3b5772;
+	border-color: #3b5772;
+	border-width: 4px;	
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+	color: #FFFFFF;
+}
+
+.orsuya {
+	line-height: normal;
+	font-size: 18px;
+	padding-top: 10rem;
+}
+
+.buffer {
+	height: 2rem;
+}
+
+.ingsuya {
+	line-height: normal;
+}
+
+img {
+	height: 750px;
+	width: fixed;
+	padding: 5rem;
+}
+
+.intro5 {
+	background: url(images/img-03.jpg) no-repeat center center; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.salma {
+	padding-top: 10rem;
+}
+
+hr {
+	max-width: 20rem;
+}
+
+.mom {
+	line-height: 10rem;
+}
+
+.intro9 {
+	background-color: #253551;
+	color: white;
+}
+
+#usman {
+	line-height: 5rem;
+}
+
+.wireframe {
+	color: white;
+}
+
+.wireframe:hover {
+	color: #212529;
+}
+
+/*Subscribe Form*/
+.bilkisu {
+	max-width: 40rem;
+	align-self: center;
+}
+
+.aisha {
+	border-radius: 0px;
+	margin-top: -65px;
+	margin-left: 32rem
+}
+
+footer {
+	border-style: solid;
+	border-width: medium;
+	color: white;
+	/*background-color: white;*/
+	background-color: #253551;
+	padding: 2rem;
+}
