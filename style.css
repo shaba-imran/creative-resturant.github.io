@@ -25,9 +25,9 @@ header {
 	font-size: 42px;
 }
 
-.col-4 {
+/*.col-6 {
 	padding: 100px;
-}
+}*/
 
 .intro2 {
 	background: url(images/img-01.jpg) no-repeat center center; 
@@ -92,8 +92,8 @@ header {
 }
 
 img {
-	height: 750px;
-	width: fixed;
+	height: 100%;
+	width: 100%;
 	padding: 5rem;
 }
 
@@ -138,14 +138,13 @@ hr {
 
 /*Subscribe Form*/
 .bilkisu {
-	max-width: 40rem;
 	align-self: center;
 }
 
 .aisha {
 	border-radius: 0px;
-	margin-top: -65px;
-	margin-left: 32rem
+	/*margin-top: -65px;*/
+	/*margin-left: 32rem*/
 }
 
 footer {
