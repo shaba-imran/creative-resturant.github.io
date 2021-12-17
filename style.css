@@ -25,9 +25,9 @@ header {
 	font-size: 42px;
 }
 
-/*.col-6 {
+.col-6 {
 	padding: 100px;
-}*/
+}
 
 .intro2 {
 	background: url(images/img-01.jpg) no-repeat center center; 
@@ -124,7 +124,7 @@ hr {
 	color: white;
 }
 
-#usman {
+.usman {
 	line-height: 5rem;
 }
 
